@@ -1,1 +1,1 @@
-# quote-apps
+ https://madihaparacha.github.io/quote-apps/.
