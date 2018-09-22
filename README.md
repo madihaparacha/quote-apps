@@ -1,5 +1,5 @@
 # QUOTES APP
-## You can see the website here:  https://madihaparacha.github.io/quote-apps/.
+* You can see the website here:  https://madihaparacha.github.io/quote-apps/.
 
 # Ingredients
 To make this application, we need to cover the following topics:
