@@ -16,7 +16,7 @@ let richestPeoples = [
     {
         name:"Li-Ka Shing",
         title:"$33.9 Billion", 
-        imgURL:"Li-Ka-Shing.jpg",
+        imgURL:"Li-Ka-shing.jpg",
         readMoreURL:"https://en.wikipedia.org/wiki/Li_Ka-shing",
         quote:"““If you think, then you will be prepared. If you are prepared, then you will have no worries.”.”"       
     },
