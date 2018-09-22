@@ -83,7 +83,8 @@ p{
   color: black;
 }
 .icon{
-float: right;
+  float: right;
+  font-size:50px;
 
 }
 h6{
